@@ -25,11 +25,15 @@
 
 ###
 
-<h3 align="left">I'm a competitive programmer and frontend developer who loves solving challenges and building intuitive web experiences. My background in competitive programming has sharpened my problem-solving skills, while my work in frontend development allows me to create clean, responsive websites using HTML, CSS, JavaScript, and React.<br><br>I'm passionate about combining logical thinking with creative design and am always looking for new opportunities to learn and grow in the tech field.</h3>
+<h3 align="left">I'm a Frontend Developer and Competitive Programmer who loves solving challenges and building intuitive web experiences. My background in competitive programming has sharpened my problem-solving skills, while my work in frontend development allows me to create clean, responsive websites using HTML, CSS, JavaScript, and React.<br><br>I'm passionate about combining logical thinking with creative design and am always looking for new opportunities to learn and grow in the tech field.</h3>
 
 ###
 
-<p align="left">- 📚 I’m currently learning React and DSA<br>- ⚡ In my free time I play video Games</p>
+- 🌱 I’m currently learning **React and DSA**
+
+- 📫 How to reach me **sobhanmridha786@gmail.com**
+- 📞 WhatsApp **+8801799492559**
+- ⚡ Fun fact **I am a Gamer**
 
 ###
 
