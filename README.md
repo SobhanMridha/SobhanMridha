@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Sobhan Mridha</h1>
+<h1 align="center">hey there 👋 I'm Md. Sobhan Mridha</h1>
 
 ###
 
