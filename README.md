@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Sobhan Mridha</h1>
 <h3 align="center">A passionate Frontend developer and Competitive Programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SobhanMridha/SobhanMridha/refs/heads/main/working.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/SobhanMridha/SobhanMridha/refs/heads/main/working.gif">
 
 - 🌱 I’m currently learning **React and DSA**
 
