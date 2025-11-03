@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md. sobhan mridha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. sobhan mridha" height="30" width="40" /></a>
-<a href="https://fb.com/tanvir mridha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir mridha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/md.sobhanmridha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir mridha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sobhan_mridha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sobhan_mridha" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/remade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="remade" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sobhan_mridha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sobhan_mridha" height="30" width="40" /></a>
