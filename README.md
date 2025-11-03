@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React and DSA**
 
-- 👨‍💻 Explore my portfolio [https://v0-smridha-dev.web.app/](https://v0-smridha-dev.web.app/)
+- 👨‍💻 Explore my portfolio [https://sobhanmridha.github.io](https://sobhanmridha.github.io)
 
 - 📫 How to reach me **sobhanmridha786@gmail.com**
 
